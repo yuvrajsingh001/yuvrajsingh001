@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
+<h1 align="center"> 👋 Hello, I'm Yuvraj Singh</h1>
 <h3 align="center">A passionate Software Undergrad at the University of Queensland, Australia</h3>
 <img src="https://komarev.com/ghpvc/?username=yuvrajsingh001&label=Profile%20views&color=3231b4&style=flat" alt="yuvrajsingh001" style="width:120px;"/>
 <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding GIF" width="400" height="400">
