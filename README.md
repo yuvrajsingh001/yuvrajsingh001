@@ -24,10 +24,10 @@
 
 <div>
   <a href="https://github.com/yuvrajsingh001/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh001&show_icons=true&theme=radical&rank_icon=github&count_private=true&card_width=450" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh001&show_icons=true&theme=radical&rank_icon=github&count_private=true&card_width=400" />
 </a>
 <a href="https://github.com/yuvrajsingh001/github-readme-streak-stats">
-  <img align="left" src="https://streak-stats.demolab.com/?user=yuvrajsingh001&theme=radical&card_width=450" />
+  <img align="left" src="https://streak-stats.demolab.com/?user=yuvrajsingh001&theme=radical&card_width=400" />
 </a>
 </div>
 
